@@ -1,0 +1,5 @@
+<body Style="background-color: rgb(0, 0, 0);" </body>
+
+<p style="color: red;"><script>document.write(new Date().toLocaleString())</script></p>
+<p style="color: red;"><script>  
+  document.write((new Date().getHours() < 12) ? "Good morning!" : "Good afternoon!")  </script></p>
